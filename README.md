@@ -1,6 +1,6 @@
 # Hi there, I'm Devin! 👋
 
-![Devin's GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Devin's GitHub Banner]([https://source.unsplash.com/1600x400/?technology,coding](https://github.com/DevonwithI/DevonwithI/blob/main/github-header-image.png?raw=true))
 
 ## 🚀 About Me
 - 🔭 I’m interested in **Product Analyst, SaaS, and Tech Innovation**
