@@ -5,7 +5,7 @@
 
 https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png
 ## 🚀 About Me
-- 🔭 I’m interested in **Product Analyst, SaaS, and Tech Innovation**
+- 🔭 I’m interested in **Product Analyst, SaaS, and DBT**
 - 📚 Currently learning **AI-driven tools & Customer Engagement Strategies**
 - 💡 Fun fact: *Most people spell my name wrong*
 
