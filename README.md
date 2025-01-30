@@ -1,6 +1,6 @@
 # Hi there, I'm Devin! 👋
 
-![Devin's GitHub Banner](https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png)])
+![Devin's GitHub Banner](https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png)
 
 
 https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png
