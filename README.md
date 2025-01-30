@@ -1,8 +1,9 @@
 # Hi there, I'm Devin! 👋
 
-![Devin's GitHub Banner]([https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/github-header-image.png](https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png))
+![Devin's GitHub Banner]([https://source.unsplash.com/1600x400/?technology,coding](https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png))
 
 
+https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png
 ## 🚀 About Me
 - 🔭 I’m interested in **Product Analyst, SaaS, and Tech Innovation**
 - 📚 Currently learning **AI-driven tools & Customer Engagement Strategies**
