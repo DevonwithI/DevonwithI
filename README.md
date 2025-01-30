@@ -1,6 +1,6 @@
 # Hi there, I'm Devin! 👋
 
-![Devin's GitHub Banner](https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png)
+![Devin's GitHub Banner]((https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png))
 
 https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.png
 ## 🚀 About Me
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/DevonwithI/DevonwithI/refs/heads/main/banner.p
 
 ## 🛠️ Tech & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![SQL]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white))
 ![CompanyCam](https://img.shields.io/badge/CompanyCam-0078D7?style=for-the-badge)
 
 ### 📊 GitHub Stats
